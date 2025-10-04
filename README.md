@@ -47,7 +47,7 @@ Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikhael%20Sunil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikhaelsunil)  
 [![GitHub](https://img.shields.io/badge/GitHub-MikhaelSunil-lightgrey?style=for-the-badge&logo=github)](https://github.com/MikhaelSunil)  
-[![Gmail](https://img.shields.io/badge/Email-mikhaelsunil%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mikhaelsunil@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-mikhaelsunil2200%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mikhaelsunil2200@gmail.com)  
 
 ---
 
