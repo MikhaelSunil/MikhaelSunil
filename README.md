@@ -1,16 +1,5 @@
 # 👋 Hey there, I'm Mikhael Sunil  
-### Robotics & Embedded Systems Engineer | ROS 2 Enthusiast | AI-Driven Innovator  
-
----
-
-### 🧭 About Me
-- 🤖 Passionate about **Autonomous Systems, ROS 2, and Embedded AI**  
-- 🧩 Experienced in **FPGA, microcontrollers, and vision-based control**  
-- 🧠 Open-source contributor to **Bitcraze (Crazyflie API)**  
-- 💬 Exploring **multi-agent control and robotic intelligence**  
-- 🌍 Dedicated to developing impactful and innovative robotic systems  
-
----
+### Robotics & Embedded Systems Engineer | ROS 2 Enthusiast |
 
 ### ⚙️ GitHub Analytics  
 
