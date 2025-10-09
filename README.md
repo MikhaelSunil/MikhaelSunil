@@ -12,7 +12,7 @@
 ### 🧪 Open Source Highlights
 - 🛰️ **Crazyflie API Enhancement** – Added real-time `PoseStamped` subscription for live drone pose access  
 - ⚙️ **GeoScout** – Autonomous surveillance rover with GPR and gas sensors (ROS-based)  
-- 🧩 **Versatile Robotic Physiotherapy System** – Adaptive rehabilitation robot with active/passive control  
+
 
 ---
 
