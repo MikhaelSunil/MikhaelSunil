@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Mikhael Sunil  
-### Robotics & Embedded Systems Engineer | ROS 2 Enthusiast |
+# Hey there, I'm Mikhael Sunil  
+### Robotics & Embedded Systems Engineer | ROS 2 |ML
 
 ### ⚙️ GitHub Analytics  
 
