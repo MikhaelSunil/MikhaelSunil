@@ -59,6 +59,7 @@ Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-14354C?style=for-the-badge)
 ![Embedded C++](https://img.shields.io/badge/Embedded%20C++-004482?style=for-the-badge)
 
+
 #### **Frameworks**
 ![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -67,15 +68,14 @@ Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 ![DRIVE Sim](https://img.shields.io/badge/NVIDIA%20DRIVE%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![SLAM](https://img.shields.io/badge/SLAM-008000?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 #### **Hardware**
+<img src="https://skillicons.dev/icons?i=stm32,esp32" height="36"/>
 ![Crazyflie](https://img.shields.io/badge/Crazyflie-1C1C1C?style=for-the-badge)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-008080?style=for-the-badge&logo=esp32&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0C4A60?style=for-the-badge)
 
 #### **Tools**
@@ -85,6 +85,7 @@ Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 #### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
