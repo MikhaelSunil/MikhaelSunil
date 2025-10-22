@@ -7,10 +7,7 @@
   </a>
 </p>
   -->
-<p align="center">
-  <img src="https://media.tenor.com/XXXXXAAABbQAAAAd/flossing-fortnite-dance-robot-mecha.gif" width="60%" alt="Flossing Robot Dance" />
-</p>
-
+<img src="https://tenor.com/view/flossing-fortnite-dance-robot-mecha-gif-17675471" width="300">
 
 ## 📌 About Me
 - Final year engineering student developing robust and scalable autonomous vehicle and robotic systems through advanced multi-sensor fusion, real-time perception, and control within ROS frameworks.Main interests include probabilistic SLAM,policy optimization, and deep reinforcement learning for adaptive decision-making under uncertainty.Focused on designing algorithmic frameworks for resilient autonomy in GPS-denied and dynamically complex environments, emphasizing transferable policy learning, uncertainty-aware sensor fusion, and optimization-based motion planning for sim-to-real generalization.
