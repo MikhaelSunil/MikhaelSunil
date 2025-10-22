@@ -1,12 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Mikhael Sunil</h1>
 <h3 align="center">Robotics & Embedded Systems Engineer | ROS 2 |ML</h3>
-
+<!--
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MikhaelSunil">
     <img src="https://komarev.com/ghpvc/?username=MikhaelSunil&label=Profile%20views&color=00FFFF&style=flat-square" alt="MikhaelSunil's profile views" />
   </a>
 </p>
-
+ -->
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -98,6 +98,6 @@ Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 [![Gmail](https://img.shields.io/badge/Email-mikhaelsunil2200%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mikhaelsunil2200@gmail.com)  
 
 ---
- -->
-💫 *“Innovation lies at the intersection of curiosity and courage.”*  
 
+💫 *“Innovation lies at the intersection of curiosity and courage.”*  
+ -->
