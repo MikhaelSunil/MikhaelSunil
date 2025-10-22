@@ -14,7 +14,7 @@
 
 ### 🧪 Open Source Highlights
 - 🛰️ **Crazyflie API Enhancement** – Added real-time `PoseStamped` subscription for live drone pose access  
-- ⚙️ **GeoScout** – Autonomous surveillance rover with GPR and gas sensors (ROS-based)  
+- ⚙️ **GeoScout** – Autonomous 6 wheel drive  surveillance rover with GPR and gas sensors (ROS-based)  
 
 
 ---
