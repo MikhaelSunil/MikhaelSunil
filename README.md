@@ -7,8 +7,9 @@
   </a>
 </p>
   -->
+  <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndhNjNuYmw0NmlsZDd1ZXQwdXVpcHp2eXhiNjd0ZzkwZHV1MHY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXRd8pZGNswvK5Au2w/giphy.gif" width="50%">
-
+</p>
 
 
 <!--
