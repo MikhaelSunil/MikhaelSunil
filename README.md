@@ -49,8 +49,8 @@ Hardware: Crazyflie | Jetson Nano| Raspberry Pi | Arduino  | STM32 | FPGA
 Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 -->
 ###  Tech Toolbox
-Languages
 
+#### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,8 +59,7 @@ Languages
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-14354C?style=for-the-badge)
 ![Embedded C++](https://img.shields.io/badge/Embedded%20C++-004482?style=for-the-badge)
 
-Frameworks
-
+#### **Frameworks**
 ![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FCCC00?style=for-the-badge)
@@ -70,25 +69,27 @@ Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-Hardware
-
+#### **Hardware**
 ![Crazyflie](https://img.shields.io/badge/Crazyflie-1C1C1C?style=for-the-badge)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-008080?style=for-the-badge&logo=esp32&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0C4A60?style=for-the-badge)
 
-Tools
-
+#### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
+#### **Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Point Cloud Library](https://img.shields.io/badge/Point%20Cloud%20Library-FF6F00?style=for-the-badge)
 
----
 
 ###  Achievements & Recognition
 - 🥇  Finalist for prestigious ‘Mathworks Minidrone Competition India’ (5th position among 1500+ teams)
