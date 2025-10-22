@@ -12,10 +12,10 @@
 </p>
 
 
-<!--
-## 📌 About Me
-- Final year engineering student developing robust and scalable autonomous vehicle and robotic systems through advanced multi-sensor fusion, real-time perception, and control within ROS frameworks.Main interests include probabilistic SLAM,policy optimization, and deep reinforcement learning for adaptive decision-making under uncertainty.Focused on designing algorithmic frameworks for resilient autonomy in GPS-denied and dynamically complex environments, emphasizing transferable policy learning, uncertainty-aware sensor fusion, and optimization-based motion planning for sim-to-real generalization.
- -->
+
+##  About Me
+I am a final year engineering student developing robust and scalable autonomous vehicle and robotic systems through advanced multi-sensor fusion, real-time perception, and control within ROS frameworks.Main interests include probabilistic SLAM,policy optimization, and deep reinforcement learning for adaptive decision-making under uncertainty.Focused on designing algorithmic frameworks for resilient autonomy in GPS-denied and dynamically complex environments, emphasizing transferable policy learning, uncertainty-aware sensor fusion, and optimization-based motion planning for sim-to-real generalization.
+
 
 ##  GitHub Stats & Trophies
 <p align="center">
