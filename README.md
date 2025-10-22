@@ -7,7 +7,7 @@
   </a>
 </p>
   -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpjb3h3dGc1bDF0MWd3aWZhNWwycWRjOTZ2bTNtZXdlZGoxdzZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndhNjNuYmw0NmlsZDd1ZXQwdXVpcHp2eXhiNjd0ZzkwZHV1MHY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXRd8pZGNswvK5Au2w/giphy.gif" width="100%">
 
 ## 📌 About Me
 - Final year engineering student developing robust and scalable autonomous vehicle and robotic systems through advanced multi-sensor fusion, real-time perception, and control within ROS frameworks.Main interests include probabilistic SLAM,policy optimization, and deep reinforcement learning for adaptive decision-making under uncertainty.Focused on designing algorithmic frameworks for resilient autonomy in GPS-denied and dynamically complex environments, emphasizing transferable policy learning, uncertainty-aware sensor fusion, and optimization-based motion planning for sim-to-real generalization.
