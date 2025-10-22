@@ -7,7 +7,10 @@
   </a>
 </p>
   -->
-<div class="tenor-gif-embed" data-postid="17675471" data-share-method="host" data-aspect-ratio="0.91875" data-width="100%"><a href="https://tenor.com/view/flossing-fortnite-dance-robot-mecha-gif-17675471">Flossing Fortnite Dance GIF</a>from <a href="https://tenor.com/search/flossing-gifs">Flossing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/XXXXXAAABbQAAAAd/flossing-fortnite-dance-robot-mecha.gif" width="60%" alt="Flossing Robot Dance" />
+</p>
+
 
 ## 📌 About Me
 - Final year engineering student developing robust and scalable autonomous vehicle and robotic systems through advanced multi-sensor fusion, real-time perception, and control within ROS frameworks.Main interests include probabilistic SLAM,policy optimization, and deep reinforcement learning for adaptive decision-making under uncertainty.Focused on designing algorithmic frameworks for resilient autonomy in GPS-denied and dynamically complex environments, emphasizing transferable policy learning, uncertainty-aware sensor fusion, and optimization-based motion planning for sim-to-real generalization.
