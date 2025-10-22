@@ -9,16 +9,14 @@
   -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndhNjNuYmw0NmlsZDd1ZXQwdXVpcHp2eXhiNjd0ZzkwZHV1MHY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXRd8pZGNswvK5Au2w/giphy.gif" width="100%">
 
-![gif](https://github.com/user-attachments/assets/c74f6100-77b8-4d8d-9034-8dd8383c5794)
 
 
-
-
+<!--
 ## 📌 About Me
 - Final year engineering student developing robust and scalable autonomous vehicle and robotic systems through advanced multi-sensor fusion, real-time perception, and control within ROS frameworks.Main interests include probabilistic SLAM,policy optimization, and deep reinforcement learning for adaptive decision-making under uncertainty.Focused on designing algorithmic frameworks for resilient autonomy in GPS-denied and dynamically complex environments, emphasizing transferable policy learning, uncertainty-aware sensor fusion, and optimization-based motion planning for sim-to-real generalization.
+ -->
 
-
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikhaelSunil&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="MikhaelSunil's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=MikhaelSunil&theme=radical&hide_border=true&cache_seconds=86400" alt="MikhaelSunil's GitHub Streak" width="49%" />
@@ -28,10 +26,11 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelSunil&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
+--
 ###  Open Source Highlights
 - 🛰️ **Crazyflie API Enhancement** – Added real-time `PoseStamped` subscription for live drone pose access  
 - ⚙️ **GeoScout** – Autonomous 6 wheel drive  surveillance rover with GPR and gas sensors (ROS-based)  
