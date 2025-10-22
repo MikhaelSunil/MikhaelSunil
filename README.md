@@ -20,18 +20,22 @@
 ---
 
 ### 🧰 Tech Toolbox
-Languages: C | C++ | Python | MATLAB | Verilog | Rust
-Frameworks: ROS 2 | Arduino | Gazebo | TensorFlow | OpenCV
-Hardware: Crazyflie | Raspberry Pi | Arduino Mega | STM32 | FPGA
+Languages: C | C++ | Python | MATLAB | Verilog | Embedded C and C++|
+Frameworks: ROS 2 | Arduino | Gazebo | NVIDIA Isaac Sim|DRIVE sim|SLAM| TensorFlow | OpenCV
+Hardware: Crazyflie | Jetson Nano| Raspberry Pi | Arduino  | STM32 | FPGA
 Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 
 
 ---
 
 ### 🏆 Achievements & Recognition
-- 🥇 Awarded for Excellence in Embedded Systems & Robotics Projects  
+- 🥇  Finalist for prestigious ‘Mathworks Minidrone Competition India’ (5th position among 1500+ teams)
+- 🥇  Winner of Heroes of Tomorrow 2020 for the project “Hybrid Sustainable Atmospheric Water Generator”
+- 🥇 Finalist [Ideate for India 2019] for the projects “Automated Vehicle Accident Security” and “Non-Contact ECG Monitoring System”
+- 🥇 Awarded for Excellence in Embedded Systems & Robotics Projects
 - 💡 Published research on **Multi-Agent Consensus Control** under ROS 2  
-- 🤝 Collaborated with **Bitcraze** and **IMRC Labs** on open-source development  
+- 🤝 Collaborated with **Bitcraze** and **IMRC Labs** on open-source development
+- 🤝 Worked in Research and development in Botnoca Robotics,IISER,Merecedez Benz 
 
 ---
 
