@@ -99,7 +99,7 @@ Tools: Git | VSCode | Fusion 360 | Proteus | Power BI
 - 🥇 Awarded for Excellence in Embedded Systems & Robotics Projects
 - 💡 Published research on **Multi-Agent Consensus Control** under ROS 2  
 - 🤝 Collaborated with **Bitcraze** and **IMRC Labs** on open-source development
-- 🤝 Worked in Research and development in Botnoca Robotics,IISER,Merecedez Benz 
+- 🤝 Worked in Research and development in Botnova Robotics, IISER, Merecedez Benz 
 
 ---
 ## 🔗 Connect with Me
